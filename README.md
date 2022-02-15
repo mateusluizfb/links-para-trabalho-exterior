@@ -8,9 +8,8 @@ Segue alguns links que podem ajudar a entender como trabalhar pro exterior:
 
 Tributação:
 
-- Fator R (defini a tabela de tributação do seu CNPJ): https://www.contabilizei.com.br/calculadora-fator-r/
+- Fator R (vai definir a tabela de tributação do seu CNPJ): https://www.contabilizei.com.br/calculadora-fator-r/
 - Tabelas de tributação Anexo III e Anexo V: https://www.contabilizei.com.br/contabilidade-online/anexo-3-simples-nacional/ e https://www.contabilizei.com.br/contabilidade-online/anexo-5-simples-nacional/
-
 
 ### Quais impostos uma ME optante pelo Simples Nacional paga?
   - DAS -> Impostos da sua empresa normal, cálculado a partir da receita no mês, o valor que você declara na nota fiscal;

@@ -14,4 +14,4 @@ Tributação:
 ### Quais impostos uma ME optante pelo Simples Nacional paga?
   - DAS -> Impostos da sua empresa normal, cálculado a partir da receita no mês, o valor que você declara na nota fiscal;
   - IRRF (ou chamado de DARF) -> Imposto de renda, cálculado com base no seu pro-lábore (o "salário" que a sua empresa te paga);
-  - INSS (ou chamado de GPS) -> É o valor da previdência, cálculado também com no seu pro-lábore.
+  - INSS (ou chamado de GPS) -> É o valor da previdência, cálculado também baseado no seu pro-lábore.
